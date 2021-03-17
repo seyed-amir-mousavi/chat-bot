@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: #15151a;
+    height: 92vh;
+    overflow-y: auto;
+}
+
+.messageBox{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: #15151a;
+    padding: 20px 0;
+    box-sizing: border-box;
+}

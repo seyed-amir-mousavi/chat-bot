@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.human{
+    justify-content: flex-end;
+    padding-right: 15px;
+}
+
+.bot{
+    justify-content: flex-start;
+    padding-left: 15px;
+}
+
+.message{
+    color: white;
+    direction: rtl;
+    margin: 0;
+    padding: 7px 8px 7px 20px;
+    background-color: #236954;
+    border-radius: 6px;
+    min-width: 40px;
+    max-width: 85%;
+    word-wrap: break-word;
+    font-size: 14px;
+}
