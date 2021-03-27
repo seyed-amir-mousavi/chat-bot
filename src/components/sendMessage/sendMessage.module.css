@@ -4,9 +4,8 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    height: 60px;
     background-color: #373a3d;
-    height: 8vh;
+    height: 55px;
 }
 
 .input{
